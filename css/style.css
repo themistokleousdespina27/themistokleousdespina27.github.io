@@ -3,6 +3,40 @@
 	width: 100%;
 }
 h1{
-	color: hotpink;
-	background: pink;
+	color: #CF3C8C;
+}
+body {
+  color:#CF3C8C;
+}
+
+h1 {
+  color:#CF3C8C;
+}
+
+h2 {
+  color:#CF3C8C;
+}
+.p1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p2 {
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.p3 {
+  font-family:Arial, Helvetica, sans-serif;
+}
+body {
+  background-color:#EDD1E2;
+}
+p {
+  font-size: 20px;
+}
+p1 {
+  font-size: 20px;
+}
+p2 {
+  font-size: 20px;
+  color:#CF3C8C ;
 }
